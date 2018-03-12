@@ -1,0 +1,101 @@
+*{margin:0px; padding:0px; }
+p{
+	font-family: 'Crimson Text', serif;
+}
+
+ul li{
+	list-style:none;
+	display: inline-block;
+
+}
+h1 h2 h3 h4 h5 h6{
+	font-family: 'Oswald', sans-serif;
+}
+.mm{
+	background-color: black;
+	height: 72px;
+}
+
+#logo{
+	border-radius:50%;
+	height: 70px;
+	width: 70px;
+
+}
+
+.who_am_i, h2{
+	text-align: center;
+	padding-top: 25px;
+}
+
+
+#adv{
+	padding-top: 0px;
+}
+
+
+
+
+.where_to{
+	padding-bottom: 30px;
+}
+.phglry{
+	text-align: center;
+}
+.where_to{
+	background-color:#E6E6FA;
+	margin-top: 20px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: blue;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #f06292;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color:  #ff1744;
+    color: white;
+}
+#sun{
+	width: 100%;
+	height:300px;
+
+}
+.names,.trends{
+	background-color:azure; 
+}
+
+.names_content h1{
+	background-color: blue;
+	color:black;
+}
+.trends_content h1{
+	background-color: #ff1744;
+	color:black;
+}
+
+.names_content h6{
+	color: blue;
+}
+.trends_content h6{
+	color: #ff1744;
+}
